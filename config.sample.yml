@@ -1,0 +1,9 @@
+---
+server:
+  url: chat.facebook.com
+  port: 5222
+user:
+  username: username
+  password: pa55w0rd
+  resource: chatbot
+  domain: chat.facebook.com
